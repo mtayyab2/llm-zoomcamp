@@ -1,2 +1,4 @@
 .env
 _pycache_
+rag-intro.py
+rag-elasticsearch.py
